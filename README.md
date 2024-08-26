@@ -1,3 +1,3 @@
 # Binary-Tree
 
-coded the rpoblems related to the binary trees from leetcode daily 
+Solved the problems in Tree Data Dtructers from leetcode and GeekforGeeks
